@@ -36,3 +36,9 @@ nav img {
     width: 25px;
     height: 25px;
 }
+footer{
+    background-color: lightcoral;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
